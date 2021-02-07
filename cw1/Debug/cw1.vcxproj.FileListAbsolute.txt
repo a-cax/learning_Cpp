@@ -1,0 +1,4 @@
+C:\projects\cw\cw1\cw1\Debug\cw1.exe
+C:\projects\cw\cw1\cw1\Debug\cw1.pdb
+C:\projects\cw\cw1\Debug\cw1.exe
+C:\projects\cw\cw1\Debug\cw1.pdb

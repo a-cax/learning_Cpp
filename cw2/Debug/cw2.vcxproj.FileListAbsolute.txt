@@ -1,0 +1,2 @@
+C:\projects\cw\cw2\Debug\cw2.exe
+C:\projects\cw\cw2\Debug\cw2.pdb

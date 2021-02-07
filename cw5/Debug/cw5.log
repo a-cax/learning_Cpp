@@ -1,0 +1,3 @@
+﻿  cw5.cpp
+C:\projects\cw\cw5\cw5.cpp(27,21): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  cw5.vcxproj -> C:\projects\cw\cw5\Debug\cw5.exe
