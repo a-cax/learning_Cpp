@@ -1,0 +1,2 @@
+C:\projects\cw\cw7\Debug\cw7.exe
+C:\projects\cw\cw7\Debug\cw7.pdb
